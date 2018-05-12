@@ -1,0 +1,30 @@
+_repo: Die-Last_44258
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44258-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Kolb, Annette
+    alias: Kolb, Anna Mathilde
+    birthdate: 1870
+    deathdate: 1967
+    gutenberg_agent_id: '42651'
+    url: http://www.gutenberg.org/2009/agents/42651
+description: ''
+gutenberg_issued: '2013-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44258'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German essays -- 20th century'
+tableOfContents: Epilog zu den Briefen an einen Toten -- Ausblick -- Zum Aufruf an
+  die Frauen -- Letzte Folgerungen -- Freiheit, Gleichheit und Brüderlichkeit -- Wiederholungen
+  -- Schlusswort.
+title: Die Last
+url: http://www.gutenberg.org/ebooks/44258
